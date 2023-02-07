@@ -6,7 +6,6 @@ const forecast = require('./utils/forecast')
 const geocode = require('./utils/geocode')
 const { response } = require('express')
 
-
 const app = express()
 
 //setup handlebars engine and views location
